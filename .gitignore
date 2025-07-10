@@ -1,0 +1,23 @@
+# Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test & debug
+*.log
+
+# Output
+*.swp
+*.swo
+*.bak
