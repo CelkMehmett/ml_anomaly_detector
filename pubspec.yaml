@@ -1,0 +1,19 @@
+name: ml_anomaly_detector
+description: >
+  A lightweight and extensible Dart library for anomaly detection in univariate and multivariate data.
+  Includes Z-Score and LOF algorithms.
+
+version: 0.1.0
+homepage: https://github.com/CelkMehmett/ml_anomaly_detector
+repository: https://github.com/CelkMehmett/ml_anomaly_detector
+issue_tracker: https://github.com/CelkMehmett/ml_anomaly_detector/issues
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  meta: ^1.11.0
+
+dev_dependencies:
+  test: ^1.25.2
+  lints: ^3.0.0
